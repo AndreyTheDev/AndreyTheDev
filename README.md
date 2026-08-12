@@ -29,7 +29,7 @@ my skills
 
 # 
 
-smth founder & owner
+smth softworks founder & owner
 
 
 
