@@ -37,7 +37,7 @@ smth softworks founder & owner
   <a href="https://t.me/SegmaNews">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black" alt="telegram"/>
   </a>
-  <a href="https://youtube.com/@andreythedevv">
+  <a href="https://www.youtube.com/channel/UC4FK870rg0T83196bZLlJoA">
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
   </a>
   <a href="https://steamcommunity.com/id/andreykoybeyko/">
