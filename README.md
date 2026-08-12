@@ -1,4 +1,4 @@
-![Logo](https://github.com/AndreyTheDev/AndreyTheDev/blob/main/logonewwithcornerbruh.png?raw=true)
+![Logo](https://github.com/atdvv/atdvv/blob/main/images/logo.png?raw=true)
 
 # 
 <div align="right">
@@ -6,7 +6,7 @@
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
 </div>
-hii im andreythedevv
+hii im atdvv
 
 idk what im doing
 
